@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+	background-color: skyblue;
+}
+
+jk rowling {
+	transition: transform .2sc;
+	border: 10px solid #AAAAAA;
+}
+
+jk rowling:hover {
+	transform: scale(0.9);
+}
+
+arundhthi roy {
+	transition: transform .2sc;
+	border: 10px solid #AAAAAA;
+}
+
+arundhthi roy:hover {
+	transform: scale(0.9);
+}
+
+.sp1 {
+	margin: 20px;
+}
+
+.marqueeStyle {
+	font-size: 20px;
+}
